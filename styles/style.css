@@ -42,3 +42,56 @@
      color:#FFFFFF;
      
 }
+.banner{
+    max-width:1400px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+.hero{
+    max-width:1400px;
+    position:relative;
+}
+.circle{
+    max-width:350px;
+    position:absolute;
+    top: 300px;
+    left: 500px;
+    
+}
+.micro{
+     width:180px;
+    position:absolute;
+    top:300px;
+    left:600px;
+    
+}
+.banner .techwave{
+    width:500px;
+    margin:0;
+}
+.tec{
+    font-weight: 600;
+    color:#FFFFFF;
+    text-align: center;
+}
+.daily{
+    color:#FFFFFF;
+}
+.btn-container{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+.btn1{
+    width:200px;
+    background: linear-gradient(#F7E93F,#FB09B4,#9100F8);
+}
+.btn2{
+    background:#00FF88;
+    width:147;
+}
+
+    
